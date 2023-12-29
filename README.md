@@ -71,9 +71,8 @@ Analysis shows positive implications, correlating subscriber growth with stock v
 
 12. Unlimited movies, TV shows, and more. Netflix. (1997.). Retrieved March 5, 2023, from [https://www.netflix.com/ca/](https://www.netflix.com/ca/).
 
-# License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
+This project is licensed under the [MIT License](LICENSE).
 
 
